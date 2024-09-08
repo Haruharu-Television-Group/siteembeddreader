@@ -13,7 +13,7 @@
         var icontent = document.body.innerText;
         voices = speechSynthesis.getVoices();
         const uttr = new SpeechSynthesisUtterance(icontent);
-        uttr.voice = voices[182];
+
         speechSynthesis.speak(uttr);
       }
     }
