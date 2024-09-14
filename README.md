@@ -5,8 +5,13 @@ Once the tag is added, it will read the content inside the body!
 ![Operation Image](https://github.com/user-attachments/assets/461331d5-498c-4454-8d91-8664b0de7ffc)
 
 ## How it works
-<script src="siteembeddreader.min.js"></script> and  
-<div class="rb-1"></div>  
+```
+<script src="siteembeddreader.min.js"></script>
+```
+ and  
+ ```
+<div class="rb-1"></div>
+```
 Simply place them anywhere you like.  
 *Note: Any block element can be used instead of the `div`.
 
