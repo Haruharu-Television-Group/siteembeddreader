@@ -8,6 +8,7 @@
     background-size: contain;
     color: #fff;
     align-items: center;
+    margin:10px;
   }
 
   .l-box-2::before {
